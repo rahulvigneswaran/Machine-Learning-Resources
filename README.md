@@ -48,11 +48,13 @@ Classification
 Support Vector Machine
 -----------------------------
 ### As Classifier ###
->  _(Understand this before trying to attempt SVM as regressor)_  
+>  _(Understand this before trying to attempt SVM as regressor)_ 
+
 1. [Understanding Support Vector Machine algorithm from examples](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/) - This blog provides a basic intuition about Support Vector Machine (SVM) as classifiers.
 2. 
 
 ### As Regressor ###
+
 MISC
 ==================
 * [Dropout](https://machinelearningmastery.com/dropout-for-regularizing-deep-neural-networks/)
