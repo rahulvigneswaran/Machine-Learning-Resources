@@ -9,6 +9,8 @@ Table of Contents
       - [x] [Regression](#regression)
       - [x] [Classification](#classification)
       - [ ] [Support Vector Machine](#support-vector-machine)
+          - [ ] [As Classifier](#as-classifier)
+          - [ ] [As Regressor](#as-regressor)
       - [ ] [Deep Neural Network](#deep-neural-network)
       - [ ] [Convolutional Neural Network](#convolutional-neural-network)
       - [ ] [Recurrent Neural Network](#recurrent-neural-network)
@@ -45,10 +47,12 @@ Classification
 
 Support Vector Machine
 -----------------------------
-* As Classifier _(Understand this before trying to attempt SVM as regressor)_  
-  1. [Understanding Support Vector Machine algorithm from examples](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/) - This blog provides a basic intuition about Support Vector Machine (SVM) as classifiers.
-  2. 
+### As Classifier ###
+>  _(Understand this before trying to attempt SVM as regressor)_  
+1. [Understanding Support Vector Machine algorithm from examples](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/) - This blog provides a basic intuition about Support Vector Machine (SVM) as classifiers.
+2. 
 
+### As Regressor ###
 MISC
 ==================
 * [Dropout](https://machinelearningmastery.com/dropout-for-regularizing-deep-neural-networks/)
