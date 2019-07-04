@@ -6,8 +6,17 @@ Table of Contents
 
   - [x] [Historical Perspective](#historical-perspective) 
   - [ ] [Review of basics](#review-of-basics)
-      - [x] [Linear Regression](#linear-regression)
-      - [ ] [Linear Classification](#linear-classification)
+      - [x] [Regression](#regression)
+      - [x] [Classification](#classification)
+      - [ ] [Support Vector Machine](#support-vector-machine)
+      - [ ] [Deep Neural Network](#deep-neural-network)
+      - [ ] [Convolutional Neural Network](#convolutional-neural-network)
+      - [ ] [Recurrent Neural Network](#recurrent-neural-network)
+  - [ ] [Optimizing Deep Learning](#optimizing-deep-learning)
+  - [ ] [Generative Machine Learning](#generative-machine-learning)
+  - [ ] [Domain Adaptation](#domain-adaptation)
+  - [ ] [Meta Learning](#meta-learning)
+  - [ ] [Incremental Learning](#incremental-learning)
   - [ ] [MISC](#misc)
   
   
@@ -20,13 +29,25 @@ Historical perspective
 Review of basics
 ====================
 
-Linear Regression
+Regression
 --------------------------
-1. [Linear Regression with Tensorflow*](https://www.guru99.com/linear-regression-tensorflow.html) - This blog post provides a overall idea of the concept of Linear Regression with a Tensorflow example.
+1. Andrew Ng Lectures - Linear Regression
+    * Univariate - [1](https://youtu.be/kHwlB_j7Hkc?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN), [2](https://www.youtube.com/watch?v=yuH4iRcggMw&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=5), [3](https://www.youtube.com/watch?v=yR2ipCoFvNo&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=6), [4](https://www.youtube.com/watch?v=0kns1gXLYg4&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=7), [5](https://www.youtube.com/watch?v=YovTqTY-PYY&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=9), [6](https://www.youtube.com/watch?v=YovTqTY-PYY&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=9), [7](https://www.youtube.com/watch?v=GtSf2T6Co80&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=10).
+    * Multivariate - [1](https://www.youtube.com/watch?v=Q4GNLhRtZNc&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=18), [2](https://www.youtube.com/watch?v=pkJjoro-b5c&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=19), [3](https://www.youtube.com/watch?v=B-Ks01zR4HY&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=24).
+2. [Linear Regression with Tensorflow*](https://www.guru99.com/linear-regression-tensorflow.html) - This blog post provides a overall idea of the concept of Linear Regression with a Tensorflow example.
 
-Linear Classification
+
+Classification
 -------------------------
-2. [Linear Classifier in Tensorflow*]()
+1. Andrew Ng Lectures - Logistic Regression
+    * Binary classification - [1](https://www.youtube.com/watch?v=-la3q9d7AKQ&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=32), [2](https://www.youtube.com/watch?v=t1IT5hZfS48&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=33), [3](https://www.youtube.com/watch?v=F_VG4LNjZZw&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=34), [4](https://www.youtube.com/watch?v=HIQlmHxI6-0&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=35), [5](https://www.youtube.com/watch?v=TTdcc21Ko9A&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=36).
+    * Multi-class classification - [One vs All](https://www.youtube.com/watch?v=-EIfb6vFJzc&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=38)
+
+Support Vector Machine
+-----------------------------
+* As Classifier _(Understand this before trying to attempt SVM as regressor)_  
+  1. [Understanding Support Vector Machine algorithm from examples](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/) - This blog provides a basic intuition about Support Vector Machine (SVM) as classifiers.
+  2. 
 
 MISC
 ==================
