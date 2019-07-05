@@ -12,6 +12,8 @@ Table of Contents
           - [x] [As Classifier](#as-classifier)
           - [ ] [As Regressor](#as-regressor)
       - [ ] [Deep Neural Network](#deep-neural-network)
+          - [x] [Intuition](#intuition)
+          - [x] [Backpropagation in Detail](#backpropagation-in-detail)
       - [ ] [Convolutional Neural Network](#convolutional-neural-network)
       - [ ] [Recurrent Neural Network](#recurrent-neural-network)
   - [ ] [Optimizing Deep Learning](#optimizing-deep-learning)
@@ -58,9 +60,17 @@ Support Vector Machine
 
 Deep Neural Network
 ---------------------------
+
+### Intuition ###
+>  _(Gain a basic intuition of Deep Neural Networks before proceeding in detail about backpropagation)_ 
+
 1. [Deep Neural Network Playlist by 3blue1brown](https://www.3blue1brown.com/neural-networks) - This playlist of videos provides the best possible intuition of Deep Neural Networks without much mathematical overload.
 2. [Neural Network and Deep Learning blog by  Michael Nielsen](http://neuralnetworksanddeeplearning.com/) - This blog is the reference material behind the previously mentioned source. It provides a much more detailed idea of Deep Neural Network.
 3. [Deep Learning Book by Ian Goodfellow](http://www.deeplearningbook.org/) - This is the go-to book for understanding Deep learning. I have mentioned this as 3rd resource as the size of the book is quite large. Other than that this is best possible study material for learning about Deep Neural Networks.
+
+### Backpropagation in Detail ###
+
+1. [Backpropagation - Standford Lecture](https://www.youtube.com/watch?v=d14TUNcbn1k) - This lecture gives a detailed idea about how backropagation works but doesn't explain it properly with respect to Deep Neural Network.
 
 MISC
 ==================
