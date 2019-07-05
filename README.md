@@ -9,7 +9,7 @@ Table of Contents
       - [x] [Regression](#regression)
       - [x] [Classification](#classification)
       - [ ] [Support Vector Machine](#support-vector-machine)
-          - [ ] [As Classifier](#as-classifier)
+          - [x] [As Classifier](#as-classifier)
           - [ ] [As Regressor](#as-regressor)
       - [ ] [Deep Neural Network](#deep-neural-network)
       - [ ] [Convolutional Neural Network](#convolutional-neural-network)
@@ -51,7 +51,8 @@ Support Vector Machine
 >  _(Understand this before trying to attempt SVM as regressor)_ 
 
 1. [Understanding Support Vector Machine algorithm from examples](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/) - This blog provides a basic intuition about Support Vector Machine (SVM) as classifiers.
-2. 
+2. [MIT Lecture - Support Vector Machine](https://www.youtube.com/watch?v=_PwhiWxHK8o) - Get an intuition of SVM as classifier from the above blog source before proceeding with this. This lecture gives a detailed explanation of the internal workings of SVM as classifier.
+3. [Siraj Raval Youtube Video - Support Vector Machine](https://www.youtube.com/watch?v=g8D5YL6cOSE) - This video contains a less elabaorate discussion about SVM as classfier with code
 
 ### As Regressor ###
 
